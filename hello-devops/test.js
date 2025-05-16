@@ -1,4 +1,4 @@
-const greet = require('./app')
+const greet = require('./app');
 
 if(greet()==="Hello from Devops"){
     console.log("test passed");
